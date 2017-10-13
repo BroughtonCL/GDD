@@ -13,4 +13,10 @@ In house Developer
 (/www.gamasutra.com/view/feature/130127/design_document_play_with_fire.php)
 # Acceptance of Criteria 
 We will only  1 Crictal  error , two High error and 5 Mild errors 
+## Section 2 
+# Test Team
+# Budgets 
+# MileStones
+# Test Description
+# Testing 
 
